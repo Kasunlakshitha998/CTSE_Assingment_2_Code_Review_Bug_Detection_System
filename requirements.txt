@@ -1,0 +1,16 @@
+# AI Code Review & Bug Detection System - Dependencies
+# Install with: pip install -r requirements.txt
+
+# LangGraph for agent orchestration
+langgraph>=0.2.0
+
+# LangChain community for Ollama integration
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+
+# Ollama Python client
+ollama>=0.3.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
